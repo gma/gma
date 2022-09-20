@@ -35,7 +35,7 @@ Ruby:
 [bundler-exec]: https://github.com/gma/bundler-exec
 
 There's also a handful of Linux/dev-tool related projects, such as my [Vim config]
-and the (rather magical) fzf-powered [tmux-fuzzy-launcher] (for Vim and tmux fans).
+and the (rather magical) fzf-powered [tmux-fuzzy-launcher] for Vim and tmux fans.
 
 [Vim config]: https://github.com/gma/nvim-config
 [tmux-fuzzy-launcher]: https://github.com/gma/tmux-fuzzy-launcher
