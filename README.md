@@ -61,3 +61,7 @@ If you think I might be able to help with something, feel free to get in touch.
 I'm available for freelance or contract work.
 
 <a href="https://linkedin.com/in/ashtong">![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "My LinkedIn profile")</a>
+
+### Open source contributions
+
+![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gma&theme=tokyonight)
