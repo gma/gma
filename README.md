@@ -21,12 +21,15 @@ Python:
   [Obsidian]
 - [ngram-builder] — a library for extracting ngrams from chunks of text
 - [python-netsyslog] — a library for creating and sending Syslog UDP packets
+- [aventofcode-rain-risk] — my solution to one of the problems from 2020's
+  "Advent of Code"
 
 [notion-to-obsidian]: https://github.com/gma/notion-to-obsidian
 [Notion]: https://notion.so
 [Obsidian]: https://obsidian.md
 [ngram-builder]: https://github.com/gma/ngram-builder
 [python-netsyslog]: https://github.com/gma/python-netsyslog
+[aventofcode-rain-risk]: https://github.com/gma/aventofcode-rain-risk
 
 Ruby:
 
