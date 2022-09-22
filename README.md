@@ -17,9 +17,14 @@ a good start…
 
 Python:
 
+- [notion-to-obsidian] — tool for converting [Notion] notes for use with
+  [Obsidian]
 - [ngram-builder] — a library for extracting ngrams from chunks of text
 - [python-netsyslog] — a library for creating and sending Syslog UDP packets
 
+[notion-to-obsidian]: https://github.com/gma/notion-to-obsidian
+[Notion]: https://notion.so
+[Obsidian]: https://obsidian.md
 [ngram-builder]: https://github.com/gma/ngram-builder
 [python-netsyslog]: https://github.com/gma/python-netsyslog
 
