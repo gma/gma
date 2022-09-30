@@ -23,6 +23,7 @@ Python:
 - [python-netsyslog] — a library for creating and sending Syslog UDP packets
 - [aventofcode-rain-risk] — my solution to one of the problems from 2020's
   "Advent of Code"
+- Or you could browse through all my [public Python projects]
 
 [notion-to-obsidian]: https://github.com/gma/notion-to-obsidian
 [Notion]: https://notion.so
@@ -30,17 +31,20 @@ Python:
 [ngram-builder]: https://github.com/gma/ngram-builder
 [python-netsyslog]: https://github.com/gma/python-netsyslog
 [aventofcode-rain-risk]: https://github.com/gma/aventofcode-rain-risk
+[public Python projects]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
 
 Ruby:
 
 - [Nesta] — a file based CMS, built on top of Sinatra
 - Nesta's [themes] and [plugins]
 - [bundler-exec] — automates the use of `bundle exec` (this one's a shell script)
+- Or you could look through all my [public Ruby projects]
 
 [Nesta]: https://github.com/gma/nesta
 [themes]: https://github.com/gma?tab=repositories&q=nesta-theme&type=public&language=ruby&sort=
 [plugins]: https://github.com/gma?tab=repositories&q=nesta-plugin&type=public&language=ruby&sort=
 [bundler-exec]: https://github.com/gma/bundler-exec
+[public Ruby projects]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 
 There's also a handful of Linux/dev-tool related projects, such as my [Vim config]
 and the (rather magical) fzf-powered [tmux-fuzzy-launcher] for Vim and tmux fans.
