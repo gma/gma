@@ -51,5 +51,3 @@ I'm available for freelance or contract work. If you think I might be able to
 help you with something feel free to get in touch.
 
 <a href="https://linkedin.com/in/ashtong">![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "My LinkedIn profile")</a>
-
-![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gma&theme=tokyonight&count_private=true&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats)
