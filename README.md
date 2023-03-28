@@ -12,13 +12,13 @@ agile teams).
 Code
 ----
 
-I've got plenty of open source projects [written in Python] and [in Ruby].
+I've got plenty of open source projects [written in Python] and in [Ruby].
 
 Most of my JavaScript work has been for clients, but [seo-link-analyzer] is a
-small project that's open source.
+small project that's open source if you'd like to see some of my code.
 
 [written in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
-[in Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
+[Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 [seo-link-analyzer]: https://github.com/gma-training/seo-link-analyzer
 
 My most significant open source project is [Nesta CMS], a file based CMS built
