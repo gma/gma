@@ -1,7 +1,8 @@
 👋 Hello there! 
 ===============
 
-I'm a Python and JavaScript dev. Currently enjoying getting up to speed with TypeScript. I also used to do a lot of work with Ruby.
+I'm a full stack developer, primarily using Python, JavaScript (TypeScript),
+and Ruby.
 
 I'm the founder and developer of [Agile Planner] (a project management app for
 agile teams).
