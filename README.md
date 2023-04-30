@@ -14,8 +14,8 @@ Code
 
 I've got plenty of open source projects [written in Python] and in [Ruby].
 
-Most of my JavaScript work has been for clients, but [seo-link-analyzer] is a
-small project that's open source if you'd like to see some of my code.
+Most of my JavaScript/TypeScript work has been for clients, but if you'd like
+to see some of my code you can take a look at [seo-link-analyzer].
 
 [written in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
 [Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
