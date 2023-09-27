@@ -21,8 +21,8 @@ to see some of my code you can take a look at [seo-link-analyzer].
 [Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 [seo-link-analyzer]: https://github.com/gma-training/seo-link-analyzer
 
-My most significant open source project is [Nesta CMS], a file based CMS built
-on Sinatra.
+My most significant open source project is [Nesta CMS], a file-based CMS
+and static site generator, written in Ruby with the Sinatra web framework.
 
 [Nesta CMS]: https://github.com/gma/nesta
 
