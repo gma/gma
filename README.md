@@ -1,4 +1,4 @@
-👋 Hello there! 
+👋 Hello there!
 ===============
 
 I'm a full stack developer, primarily using Python, JavaScript (TypeScript),
@@ -50,7 +50,7 @@ Work
 ----
 
 I'm available for freelance or contract work. If you think I might be able to
-help you with something feel free to get in touch.
+help you, feel free to get in touch.
 
 <a href="https://linkedin.com/in/ashtong">![LinkedIn logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "My LinkedIn profile")</a>
 
