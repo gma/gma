@@ -5,9 +5,10 @@ I'm a full stack developer, primarily using Python, JavaScript (TypeScript),
 and Ruby.
 
 I'm the founder and developer of [Agile Planner] (a project management app for
-agile teams).
+agile teams) and creator of [Nesta CMS] (a file-based CMS and static site generator).
 
 [Agile Planner]: https://www.agileplannerapp.com
+[Nesta CMS]: https://github.com/gma/nesta
 
 Code
 ----
@@ -20,11 +21,6 @@ to see some of my code you can take a look at [seo-link-analyzer].
 [written in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
 [Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 [seo-link-analyzer]: https://github.com/gma-training/seo-link-analyzer
-
-My most significant open source project is [Nesta CMS], a file-based CMS
-and static site generator, written in Ruby with the Sinatra web framework.
-
-[Nesta CMS]: https://github.com/gma/nesta
 
 I've also got a handful of Linux/dev-tool related projects, such as my [Vim
 config] and the (rather magical) fzf-powered [tmux-fuzzy-launcher] for Vim and
