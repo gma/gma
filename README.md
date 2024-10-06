@@ -13,13 +13,13 @@ agile teams) and creator of [Nesta CMS] (a file-based CMS and static site genera
 Code
 ----
 
-I've got plenty of open source projects [written in Python] and [written in Ruby].
+I've got plenty of open source projects [written in Python] and [in Ruby].
 
 Most of my JavaScript/TypeScript work has been for clients, but if you'd like
 to see some of my code you can take a look at [seo-link-analyzer].
 
 [written in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
-[written in Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
+[in Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 [seo-link-analyzer]: https://github.com/gma-training/seo-link-analyzer
 
 I've also got a handful of Linux/dev-tool related projects, such as my [Vim
@@ -32,7 +32,7 @@ tmux users.
 Interests
 ---------
 
-- 👍 I like: Python, JavaScript, TypeScript, Linux, shell scripting, Docker,
+- 👍 I like: Python, Ruby, JavaScript, TypeScript, Linux, shell scripting, Docker,
   designing and testing products, UX design, building user interfaces, writing
   copy, and mentoring.
 
