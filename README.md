@@ -33,8 +33,8 @@ Interests
 ---------
 
 - 👍 I like: Python, Ruby, JavaScript, TypeScript, Linux, shell scripting, Docker,
-  designing and testing products, UX design, building user interfaces, writing
-  copy, and mentoring.
+  designing and testing products, UX design, building user interfaces (with HTML
+  and CSS), writing copy, and mentoring.
 
 - 💬 Ask me about: Extreme Programming, Refactoring, TDD, writing code that's
   easy to change, pair/mob programming, and automating all of the things.
