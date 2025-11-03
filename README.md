@@ -13,18 +13,18 @@ agile teams) and creator of [Nesta CMS] (a file-based CMS and static site genera
 Code
 ----
 
-I've got plenty of open source projects [written in Python] and [in Ruby].
+I've got plenty of open source projects written [in Python] [and Ruby].
 
 Most of my JavaScript/TypeScript work has been for clients, but if you'd like
 to see some of my code you can take a look at [seo-link-analyzer].
 
-[written in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
-[in Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
+[in Python]: https://github.com/gma?tab=repositories&q=&type=source&language=python&sort=
+[and Ruby]: https://github.com/gma?tab=repositories&q=&type=source&language=ruby&sort=
 [seo-link-analyzer]: https://github.com/gma-training/seo-link-analyzer
 
 I've also got a handful of Linux/dev-tool related projects, such as my [Vim
-config] and the (rather magical) fzf-powered [tmux-fuzzy-launcher] for Vim and
-tmux users.
+config] and the (simple but satisfying) fzf-powered [tmux-fuzzy-launcher] for
+launching your editor in a tmux session.
 
 [Vim config]: https://github.com/gma/nvim-config
 [tmux-fuzzy-launcher]: https://github.com/gma/tmux-fuzzy-launcher
